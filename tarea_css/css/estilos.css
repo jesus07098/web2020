@@ -1,0 +1,52 @@
+.container {
+    
+    margin-left: 11cm;
+    margin-right: 11.2cm;
+   
+  }
+
+
+
+p{
+    font-size: 13px;
+}
+#titulo{
+    color: rgb(64, 138, 150);
+}
+table{
+    border-collapse: collapse;
+   
+}
+th,td{
+    border: solid 1px black;
+    font-size: 13px;
+   padding: 4px;
+}
+caption{
+    font-size: 13px;
+}
+
+#especial{
+    color: rgb(255, 0, 191);
+}
+.textogris{
+    color: rgb(139, 189, 74);
+}
+
+#subtitulo{
+ color: blue;
+
+}
+.azul{
+    color: blue;
+}
+.especial{
+    color: rgb(255, 174, 0);
+}
+.verde{
+color: rgb(44, 170, 86);
+}
+
+.rojo{
+    color: red;
+}
